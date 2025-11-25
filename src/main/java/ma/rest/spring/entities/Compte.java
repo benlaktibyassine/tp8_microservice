@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 
 import jakarta.persistence.*;
 import java.util.Date;
-
+// import ma.rest.spring.enums.TypeCompte;
 @Entity
 @Data
 @NoArgsConstructor
